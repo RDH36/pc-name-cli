@@ -26,7 +26,7 @@ pc-name --help
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/votre-username/pc-name-cli.git
+git clone https://github.com/RDH36/pc-name-cli.git
 ```
 
 2. Installez les dépendances :
