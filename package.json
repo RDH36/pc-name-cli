@@ -1,0 +1,35 @@
+{
+  "name": "@rdh36/pc-name-cli",
+  "version": "1.0.2",
+  "description": "CLI to manage PC hostname",
+  "main": "./dist/cli.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node cli.ts",
+    "build": "tsc",
+    "dev": "ts-node cli.ts",
+    "prepublish": "npm run build"
+  },
+  "bin": {
+    "pc-name": "./dist/cli.js"
+  },
+  "keywords": [
+    "cli",
+    "hostname",
+    "computer-name",
+    "system"
+  ],
+  "author": "rdh36",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "commander": "^13.1.0",
+    "figlet": "^1.8.0"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.7.0",
+    "@types/node": "^22.13.4",
+    "typescript": "^5.7.3"
+  }
+}
