@@ -1,6 +1,6 @@
 {
   "name": "@rdh36/pc-name-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI to manage PC hostname",
   "main": "./dist/cli.js",
   "type": "module",

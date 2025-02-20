@@ -72,6 +72,11 @@ Si vous trouvez un bug, veuillez créer une issue en décrivant :
 
 ## 📝 Notes de version
 
+### v1.0.3
+
+- Corrections de bugs
+- Améliorations de la documentation
+
 ### v1.0.0
 
 - Affichage du nom de l'ordinateur
